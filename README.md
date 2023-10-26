@@ -1,3 +1,3 @@
 # Kattis
 
-# Solutions for Kattis. All in C#.
+# Solutions for Kattis.
