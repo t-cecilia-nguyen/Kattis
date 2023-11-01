@@ -1,0 +1,11 @@
+Input
+The first line of the input contains one integer v (0 <= v <= 200), the current wind speed over Iceland. 
+The second line of the input contains one integer n (1 <= n <= 100), the number of roads.
+
+The net n lines will each consist of a string s, the name of the road, and an integer k (0 <= k <= 200), which gives the maxiumum safe wind speed for that road, separated by a space.
+
+Output
+Print n lines, one for each road, which says whether it is safe to travel that road given the wind speed v. 
+Each line should either be “opin” if it is safe to travel or “lokud” if it is not to safe to travel along the road.
+
+Note that the order of the roads should be the same in the input and output.
