@@ -1,0 +1,7 @@
+Input
+The first line of the input contains an integer N(1 <= N <- 10).
+
+The next N lines each contains a word. Each word is at most 100 letters long, and contains only letters ‘a-z‘.
+
+Output
+Output the odd-indexed (i.e. first, third, fifth, and so on) words in the input.
