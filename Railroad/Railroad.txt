@@ -1,0 +1,6 @@
+Input
+The input consists of a single test case with two integer numbers X (0 <= X <= 1000) and Y (0 <= Y <= 1000) denoting the number of level junctions and switches, respectively. 
+You may assume that Theta has sufficiently many straight and curved pieces as well as bridges.
+
+Output
+Output "possible" if she can build a closed track using all level junctions and all switches without any dead ends, or "impossible" otherwise.
