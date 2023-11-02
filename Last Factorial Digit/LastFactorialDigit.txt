@@ -1,0 +1,6 @@
+Input
+The first line of input contains a positive integer 1 <= T <= 10, the number of test cases. 
+Each of the next T lines contains a single positive integer N. N is at most 10.
+
+Output
+For each value of N, print the last digit of N!.
